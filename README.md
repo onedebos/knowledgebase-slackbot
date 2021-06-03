@@ -1,6 +1,6 @@
 ## Knowledge base Slackbot example
 
-This is a demo Slack bot built using Slack's [Bolt APIs](https://slack.dev/bolt-js/tutorial/getting-started).
+This is a demo Slack bot built using Slack's [Bolt APIs](https://slack.dev/bolt-js/tutorial/getting-started) and follows [this tutorial](https://blog.logrocket.com/build-a-slackbot-in-node-js-with-slacks-bolt-api/) I wrote.
 
 ## Getting started
 - Clone the repo to your machine.
